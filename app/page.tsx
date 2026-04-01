@@ -9,7 +9,7 @@ export default function HomePage() {
       </p>
 
       <p>
-        <a href="/Nikunj_Vaghasiya_Resume.pdf" target="_blank">
+        <a href="/Nikunj_Vaghasiya_Resume.pdf">
           👉 Download Resume (PDF)
         </a>
       </p>
